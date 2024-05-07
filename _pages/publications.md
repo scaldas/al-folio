@@ -8,6 +8,7 @@ nav: true
 sort: 3
 ---
 
+<!-- _pages/publications.md -->
 <div class="publications">
 
 <p>An up-to-date list is available on <a href="https://scholar.google.com/citations?user=u15oBdQAAAAJ" target="_blank">Google Scholar</a>.</p>
